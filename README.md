@@ -127,4 +127,5 @@ Run with: `shiny::runApp('Prior_Validation')`
 3. How should LLM-generated priors be validated and calibrated before use in clinical trials?
 
 ---
+## Reproducibility
 To reproduce the LLM elicitation experiments, an API key for the ChatAI service provided by AcademicCloud at [GWDG](https://docs.hpc.gwdg.de/services/ai-services/saia/index.html) is required. Users must set the `BASE_URL` and `API_KEY` environment variables or enter them directly in the Elicitation Wizard interface.
